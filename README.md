@@ -1,0 +1,2 @@
+# Advancements-in-ML-for-Stock-Forecasting_TechniquesChallengesOpportunities
+In this blog, we’ll look at the use of machine learning in stock market forecasting, major methods such as supervised learning and reinforcement learning, and what they mean for us. It’s opening up possibilities like explicable AI and real-time systems, and opens up opportunities for smarter, more moral financial forecasts. 
